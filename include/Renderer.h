@@ -1,5 +1,7 @@
 #pragma once
+
 #include "../include/Shader.h"
+
 #include <unordered_map>
 
 struct Character

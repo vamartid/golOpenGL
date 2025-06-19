@@ -1,4 +1,5 @@
 #pragma once
+
 #include "../include/Barier.h"
 
 #include <array>

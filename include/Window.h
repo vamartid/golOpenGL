@@ -1,8 +1,10 @@
 #pragma once
+
+#include "../include/Renderer.h"
+
 #include <string>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
-#include "../include/Renderer.h"
 
 class Window
 {

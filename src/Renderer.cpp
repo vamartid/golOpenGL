@@ -2,11 +2,8 @@
 #include "../include/Paths.h"
 
 #include <glad/glad.h> // <- for glTexParameteri, GL_WRAP_S, etc.
-// #include <glm/gtc/matrix_transform.hpp>
-
 #include <iostream>
 #include <algorithm>
-
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 

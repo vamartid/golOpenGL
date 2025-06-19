@@ -1,4 +1,5 @@
 #include "../include/GameOfLife.h"
+
 #include <random>
 #include <thread>
 #include <algorithm>

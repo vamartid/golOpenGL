@@ -2,6 +2,7 @@
 
 #include <stdexcept>
 #include <iostream>
+
 Window::Window(int width, int height, const std::string &title)
 {
 

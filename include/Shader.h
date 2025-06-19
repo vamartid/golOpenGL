@@ -1,8 +1,3 @@
-// #pragma once
-
-// #include <string>
-
-// Shader.h
 #pragma once
 
 #include <glad/glad.h>

@@ -6,8 +6,6 @@
 #include <chrono>
 #include <iostream>
 
-// static constexpr int width = 160, height = 60;
-
 int main()
 {
     int winWidth = 1920, winHeight = 1080;
