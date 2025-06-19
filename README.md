@@ -1,6 +1,7 @@
 ## 🧬 Multithreaded Game of Life (OpenGL/C++)
 
 This is a multithreaded implementation of Conway's Game of Life using OpenGL for rendering and C++ with std::thread for concurrency. The simulation grid evolves in real-time and is displayed using GPU-accelerated point rendering. Grid updates are performed in parallel to take full advantage of multi-core CPUs.
+![](./assets/OpenGLProject_263.gif)
 
 ##### 🚀 Features
 
